@@ -12,5 +12,5 @@ npm run test-single specs/filter/
 ```
 3.运行单个文件的测试
 ```
-npm run test-single specs/filter/choose_even_spec.js
+cleafilter/choose_even_spec.js
 ```
