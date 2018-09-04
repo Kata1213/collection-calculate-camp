@@ -16,3 +16,7 @@ npm run test-single specs/reduce/compute_average_spec.js
 ```
 cleafilter/choose_even_spec.js
 ```
+
+只跑一个测试，可以用加d和加i的方式：
+ddescribe('practice-1-2', function() 
+iit("选出A集合中与B集合中子数组的元素相同的元素", function() {
